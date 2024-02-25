@@ -47,3 +47,6 @@ Once trained, use inference.py to test your model on new images or videos.
 TensorFlow Object Detection API: https://tensorflow-object-detection-api-tutorial.readthedocs.io/
 TensorFlow Custom Object Detection Tutorial: https://github.com/armaanpriyadarshan/Training-a-Custom-TensorFlow-2.X-Object-Detector
 LabelImg: https://github.com/topics/image-labeling
+
+#Youtube Link
+Link : https://youtu.be/yuq_Y3Aj56Q
